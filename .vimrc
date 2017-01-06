@@ -52,7 +52,7 @@ let python_highlight_all = 1
 let NERDTreeIgnore=['\.pyc$','\~$'] "ignored files in NERDTreen 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}n 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 
 set encoding=utf8
-
+let &t_Co=256
 colors zenburn
 
 
